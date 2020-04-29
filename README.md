@@ -8,12 +8,14 @@
 ### Repositoy 생성 가이드
 * 우측상단의 "+" 마크 클릭하여 New Repository 선택
   
-![](./repo_create1.jpg)
+  
+> <img src="./repo_create1.jpg"  width="800">
 
+출처: https://cutemoomin.tistory.com/112 [무민은귀여워]
 * 만일 다수 Owner가 나올 경우 **반드시** "2020-Ajou-TDD-Assignment" 선택
   
   
-![](./repo_create2.jpg)
+> <img src="./repo_create2.jpg"  width="800">
   
   
 ### 유의사항
