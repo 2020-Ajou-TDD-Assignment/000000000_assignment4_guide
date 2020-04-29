@@ -8,12 +8,12 @@
 ### Repositoy 생성 가이드
 * 우측상단의 "+" 마크 클릭하여 New Repository 선택
   
-![](./repo_create1.jpg){: width="800"}
+![](./repo_create1.jpg)
 
 * 만일 다수 Owner가 나올 경우 **반드시** "2020-Ajou-TDD-Assignment" 선택
   
   
-![](./repo_create2.jpg){: width="800"}
+![](./repo_create2.jpg)
   
   
 ### 유의사항
