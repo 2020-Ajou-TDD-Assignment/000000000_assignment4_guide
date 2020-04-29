@@ -8,16 +8,12 @@
 ### Repositoy 생성 가이드
 * 우측상단의 "+" 마크 클릭하여 New Repository 선택
   
+  <img src="./repo_create1.jpg"  width="600">
   
-> <img src="./repo_create1.jpg"  width="800">
-
-출처: https://cutemoomin.tistory.com/112 [무민은귀여워]
 * 만일 다수 Owner가 나올 경우 **반드시** "2020-Ajou-TDD-Assignment" 선택
   
-  
-> <img src="./repo_create2.jpg"  width="800">
-  
-  
+  <img src="./repo_create2.jpg"  width="600">
+   
 ### 유의사항
 * 리포지토리 명은 반드시 **"학번_영문이름"** 으로 함.  
 예를 들어 **"201610174_yoon_daekyun"**.
